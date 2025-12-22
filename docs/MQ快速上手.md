@@ -653,4 +653,5 @@ https://blog.csdn.net/weixin_42069404/article/details/140898901
 
 消息按顺序发送到同一个队列，且这个队列只有一个消费者
 
+
 https://blog.csdn.net/weixin_45498465/article/details/105708875
