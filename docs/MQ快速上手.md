@@ -640,6 +640,7 @@ listener:
 ```
 
 ### 3.rabbitmq实现持久化
+https://support.huaweicloud.com/usermanual-rabbitmq/rabbitmq_ug_0010.html
 
 ## 6.避免消息被重复消费
 
@@ -655,3 +656,4 @@ https://blog.csdn.net/weixin_42069404/article/details/140898901
 
 
 https://blog.csdn.net/weixin_45498465/article/details/105708875
+
