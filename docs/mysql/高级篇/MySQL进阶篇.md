@@ -96,11 +96,11 @@ https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 
 #### 3.B+Tree
 
-![B+Tree](./images/B+Tree.jpg)
+![](images/B加Tree.jpg)
 
 mysql对B+tree进行了优化：
 
-![MySQL-B+Tree](./images/MySQL-B+Tree.jpg)
+![](images/MySQL-B加Tree.jpg)
 
 #### 4.Hash索引
 
