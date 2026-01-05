@@ -206,6 +206,8 @@ profession、age、status为联合索引 create index index_pro_age_status on tb
 
 ##### 9）覆盖索引（避免回表查询）
 
+覆盖索引是指一个索引包含了查询所需的所有字段的数据，因此不需要回表
+
 ![sysy9](./images/sysy9.jpg)
 
 ##### 10)覆盖索引(避免回表查询)
