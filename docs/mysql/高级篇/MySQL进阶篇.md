@@ -166,9 +166,12 @@ show global status like 'Com_______';
 
 ### 6.索引使用（explain)
 
+https://www.cnblogs.com/damaoa/p/18952729
+
 ##### 1）最左前缀法则
 
 ![sysy](./images/sysy.jpg)
+
 
 ##### 2）范围查询
 
