@@ -32,15 +32,19 @@ RabbitMQ 是一个开源的消息代理软件（消息中间件） ，实现了�
 
 ### 2.RabbitMQ运行流程
 
+#### 1.定义
+
 生产者将消息发送到RabbitMQ，RabbitMQ将消息发送到交换机，交换机根据路由键将消息发送到队列，然后消费者从RabbitMQ中获取消息进行处理。
 
-核心组件：
+#### 2.核心组件
 1. 生产者（Producer）：
    发送消息到 RabbitMQ 服务器的应用程序，应用程序将消息发布到特定的 Exchange。
 2. Exchange（交换机）：将生产者发送的消息根据路由规则将消息转发到相应的队列，队列常见类型：Direct、Topic、Fanout、Headers。
 3. Binding（绑定）： Exchange 和 Queue 之间的连接关系，定义消息路由规则。
 4. Queue（队列）： 存储消息的缓冲区，消息在被消费前临时存储的位置。
 5. 消费者（Consumer）： 从队列中接收和处理消息的应用程序，订阅特定队列获取消息。
+
+![img.png](img.png)
 
 
 
