@@ -64,3 +64,4 @@ https://rocketmq.apache.org/download
 https://www.cnblogs.com/slgkaifa/p/19218191
 3. rocketmq快速入门
 https://developer.aliyun.com/article/1666148
+https://blog.csdn.net/tangjieqing/article/details/144722441
