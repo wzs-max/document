@@ -59,5 +59,8 @@ RocketMQ是一个高吞吐量、低延迟、高可靠、高可用的消息中间
 
 ## 三、RocketMQ实战
 1. rocketmq下载地址
-
 https://rocketmq.apache.org/download
+2. windows安装rocketmq（内存要求有点高，所以用windows）
+https://www.cnblogs.com/slgkaifa/p/19218191
+3. rocketmq快速入门
+https://developer.aliyun.com/article/1666148
