@@ -63,6 +63,6 @@ https://rocketmq.apache.org/download
 2. windows安装rocketmq（内存要求有点高，所以用windows）
 https://www.cnblogs.com/slgkaifa/p/19218191
 3. rocketmq快速入门
+官网学习：
 https://rocketmq.apache.org/zh/docs/4.x
-https://developer.aliyun.com/article/1666148
-https://blog.csdn.net/tangjieqing/article/details/144722441
+https://rocketmq.apache.org/zh/docs/
