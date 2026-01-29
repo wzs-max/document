@@ -67,3 +67,4 @@ https://www.cnblogs.com/slgkaifa/p/19218191
 https://rocketmq.apache.org/zh/docs/4.x
 https://rocketmq.apache.org/zh/docs/
 https://blog.csdn.net/myGodxx/article/details/155274404
+nameserver：https://zhuanlan.zhihu.com/p/179171364
